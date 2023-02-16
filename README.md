@@ -16,7 +16,7 @@ Contribuições são bem-vindas! Se você quiser contribuir para o projeto, bast
 
 ## Autor
 
-Este projeto foi desenvolvido por [Eduardo Oliveira](https://github.com/DevEduu).
+Este projeto foi desenvolvido por [Eduardo Oliveira](https://github.com/DevEduu) aprendido no curso [Polimofismo no Youtube](https://www.youtube.com/@CanalPolimorfismo).
 
 ## Licença
 
