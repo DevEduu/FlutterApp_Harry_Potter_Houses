@@ -1,5 +1,7 @@
 # Aplicativo de Questionário do Universo Harry Potter
 
+![tela do app](/img_redme/app.png)
+
 Este repositório contém o código-fonte de um aplicativo móvel desenvolvido em Flutter que apresenta um questionário para determinar em qual casa do universo Harry Potter o usuário seria colocado, com base nas escolhas feitas. O objetivo do projeto é fornecer uma experiência divertida e interativa para os fãs da saga e ao mesmo tempo oferecer prática de programação em Flutter para desenvolvedores.
 
 ## Pré-requisitos
